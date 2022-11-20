@@ -6,3 +6,5 @@ def sayhola():
 
 if(__name__ == '__main__'):
 	sayhello()
+	sayhola()
+	sayhola()
