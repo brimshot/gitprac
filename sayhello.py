@@ -10,6 +10,9 @@ def sayola():
 def saygutentag():
 	print('gutentag')
 
+def saybomdia():
+	print('bom dia')
+
 if(__name__ == '__main__'):
 	sayhello()
 	sayhola()
