@@ -13,6 +13,9 @@ def saygutentag():
 def saybomdia():
 	print('bom dia')
 
+def saysup():
+	print('sup')
+
 if(__name__ == '__main__'):
 	sayhello()
 	sayhola()
