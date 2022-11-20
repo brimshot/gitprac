@@ -7,6 +7,9 @@ def sayhola():
 def sayola():
 	print('ola')
 
+def saygutentag():
+	print('gutentag')
+
 if(__name__ == '__main__'):
 	sayhello()
 	sayhola()
